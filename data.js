@@ -8,6 +8,7 @@ const data = [
         "img":"MascotasWeb/Mia.jpeg",
         "color":"Marron/Blanco",
         "description":"Mia es una Bulldog Ingles que llego para hacernos gastar plata",
+        "sexo":"hembra"
     },
     {
         "nombre":"Vitto Argüello",
@@ -16,7 +17,8 @@ const data = [
         "peso":18,
         "img":"MascotasWeb/Vitti.jpeg",
         "color":"Blanco/Negro",
-        "description":"Vitti es un Bulldog Frances comprado por el mono"
+        "description":"Vitti es un Bulldog Frances comprado por el mono",
+        "sexo":"macho"
     },
     {
         "nombre":"Lola Argüello",
@@ -25,7 +27,8 @@ const data = [
         "peso":16,
         "img":"MascotasWeb/Lola.jpeg",
         "color":"Marron/Blanco",
-        "description":"Lola es un Bulldog Frances comprado por el mono"
+        "description":"Lola es un Bulldog Frances comprado por el mono",
+        "sexo":"hembra"
     },
     {
         "nombre":"Olivia Argüello",
@@ -34,7 +37,8 @@ const data = [
         "peso":9,
         "img":"MascotasWeb/Olivia.jpeg",
         "color":"Gris/Blanco/Negro",
-        "description":"Olivia es un Gato adoptado por el mono"
+        "description":"Olivia es un Gato adoptado por el mono",
+        "sexo":"hembra"
     },
     {
         "nombre":"Shelby Argüello",
@@ -43,7 +47,8 @@ const data = [
         "peso":2,
         "img":"MascotasWeb/Shelby.jpeg",
         "color":"Gris",
-        "description":"Shelby es un conejo villero que ensucia y rompe todo"
+        "description":"Shelby es un conejo hembra que le gusta correr y molestar",
+        "sexo":"hembra"
     },
     {
         "nombre":"Aurora Josefina Solan",
@@ -52,6 +57,7 @@ const data = [
         "peso":13,
         "img":"MascotasWeb/Auro.jpeg",
         "color":"Blanco",
-        "description":"Auro es un perrito hibrido, cieguito y malo"
+        "description":"Auro es un perrito hibrido, cieguito y malo",
+        "sexo":"hembra"
     },
 ]
