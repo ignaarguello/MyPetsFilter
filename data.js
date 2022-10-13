@@ -1,14 +1,14 @@
 const data = [
     
     {
-        "nombre":"Mia Berta Solan",
+        "nombre":"Mia Solan",
         "raza":"Bulldog Ingles",
         "edad": 1,
         "peso":23,
         "img":"MascotasWeb/Mia.jpeg",
         "color":"Marron/Blanco",
-        "description":"Mia es una Bulldog Ingles que llego para hacernos gastar plata",
-        "sexo":"hembra"
+        "description":"Mimi es una Bulldog Ingles, ronca mucho, les gusta correr, y especialmente comer",
+        "sexo":"Hembra"
     },
     {
         "nombre":"Vitto Argüello",
@@ -17,8 +17,8 @@ const data = [
         "peso":18,
         "img":"MascotasWeb/Vitti.jpeg",
         "color":"Blanco/Negro",
-        "description":"Vitti es un Bulldog Frances comprado por el mono",
-        "sexo":"macho"
+        "description":"Vitti es un Bulldog Frances",
+        "sexo":"Macho"
     },
     {
         "nombre":"Lola Argüello",
@@ -27,8 +27,8 @@ const data = [
         "peso":16,
         "img":"MascotasWeb/Lola.jpeg",
         "color":"Marron/Blanco",
-        "description":"Lola es un Bulldog Frances comprado por el mono",
-        "sexo":"hembra"
+        "description":"Lola es una Bulldog Frances",
+        "sexo":"Hembra"
     },
     {
         "nombre":"Olivia Argüello",
@@ -37,8 +37,8 @@ const data = [
         "peso":9,
         "img":"MascotasWeb/Olivia.jpeg",
         "color":"Gris/Blanco/Negro",
-        "description":"Olivia es un Gato adoptado por el mono",
-        "sexo":"hembra"
+        "description":"Olivia es una gata adoptada por mi papa",
+        "sexo":"Hembra"
     },
     {
         "nombre":"Shelby Argüello",
@@ -47,8 +47,8 @@ const data = [
         "peso":2,
         "img":"MascotasWeb/Shelby.jpeg",
         "color":"Gris",
-        "description":"Shelby es un conejo hembra que le gusta correr y molestar",
-        "sexo":"hembra"
+        "description":"Shelby es un conejo gris que le gusta correr y saltar y comer zanahoria",
+        "sexo":"Hembra"
     },
     {
         "nombre":"Aurora Josefina Solan",
@@ -57,7 +57,7 @@ const data = [
         "peso":13,
         "img":"MascotasWeb/Auro.jpeg",
         "color":"Blanco",
-        "description":"Auro es un perrito hibrido, cieguito y malo",
-        "sexo":"hembra"
+        "description":"Auro es un perrita blanca, llego a nuestras vidas hace 10 años, y vivió gran parte de la nuestra historia",
+        "sexo":"Hembra"
     },
 ]
