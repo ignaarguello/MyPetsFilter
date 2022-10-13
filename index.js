@@ -38,6 +38,7 @@ Select.addEventListener('change', (event) => {
                 <h3 class="Caracteristica">Raza : <strong>${element.raza}</strong></h3>
                 <h3 class="Caracteristica">Color : <strong>${element.color}</strong></h3>
                 <h3 class="Caracteristica">Peso : <strong>${element.peso} KG</strong></h3>
+                <h3 class="Caracteristica">Edad : <strong>${element.edad} años</strong></h3>
             </div>
         </div>
         <div id='ContenedorImagenCard'>
@@ -67,9 +68,10 @@ InputText.addEventListener('input', (event) => {
                     <h1 id='TituloCard'>${element.nombre}</h1>
                     <p id='ParrafoCard'>${element.description}</p>
              <div id="ContenedorCaracteristicas">
-                    <h4 class="Caracteristica">Raza : <strong>${element.raza}</strong></h4>
-                    <h4 class="Caracteristica">Color : <strong>${element.color}</strong></h4>
-                    <h4 class="Caracteristica">Peso : <strong>${element.peso} KG</strong></h4>
+                    <h3 class="Caracteristica">Raza : <strong>${element.raza}</strong></h3>
+                    <h3 class="Caracteristica">Color : <strong>${element.color}</strong></h3>
+                    <h3 class="Caracteristica">Peso : <strong>${element.peso} KG</strong></h3>
+                    <h3 class="Caracteristica">Edad : <strong>${element.edad} años</strong></h3>
              </div>
              </div>
              <div id='ContenedorImagenCard'>

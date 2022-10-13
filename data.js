@@ -37,7 +37,7 @@ const data = [
         "description":"Olivia es un Gato adoptado por el mono"
     },
     {
-        "nombre":"Shelby Arguello",
+        "nombre":"Shelby Argüello",
         "raza":"Conejo",
         "edad": 3,
         "peso":2,
